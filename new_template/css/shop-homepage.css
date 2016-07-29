@@ -36,9 +36,9 @@ ul.thumbnails {
     white-space: nowrap;
 }
 
-.thumbnail img {
-    width: 100%;
-}
+/*.thumbnail img {*/
+    /*width: 100%;*/
+/*}*/
 
 .ratings {
     padding-right: 10px;
@@ -53,6 +53,11 @@ ul.thumbnails {
 .thumbnail .caption-full {
     padding: 9px;
     color: #333;
+}
+.cart {
+    color: #fff;
+    background-color: #337ab7;
+    margin-top: 7px;
 }
 
 footer {
