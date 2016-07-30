@@ -26,9 +26,14 @@
 					<a href="products/{$product->url}"><img src="{$product->image->filename|resize:320:150}" alt="{$product->name|escape}" alt=""></a>
 				{/if}
 				<div class="caption">
-// Разобраться с вариантами и ценной
+					{foreach $product->variants as $v}
+						{if $v->compare_price > 0}<h4 class="pull-right">{$v->compare_price|convert}</h4>{/if}
+					{/foreach}
+					<h4 class="pull-right">{$v->price|convert} <span class="currency">{$currency->sign|escape}</span></h4>
+					<h4><a data-product="{$product->id}" href="products/{$product->url}">{$product->name|escape}</a></h4>
+					<!--p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p-->
 					<!-- Выбор варианта товара -->
-					<form class="variants" action="/cart">
+					<form id="test" class="variants" action="/cart">
 						<table>
 							{foreach $product->variants as $v}
 								<tr class="variant">
@@ -45,23 +50,11 @@
 								</tr>
 							{/foreach}
 						</table>
-						<input type="submit" class="button" value="в корзину" data-result-text="добавлено"/>
 					</form>
-
-
-					
-					{if $v->compare_price > 0}<h4 class="pull-right">{$v->compare_price|convert}</h4>{/if}
-					<h4 class="pull-right">{$v->price|convert} <span class="currency">{$currency->sign|escape}</span></h4>
-
-
-
-					<h4><a data-product="{$product->id}" href="products/{$product->url}">{$product->name|escape}</a>
-					</h4>
-					<p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
 				</div>
 				{if $product->variants|count > 0}
 				<div class="ratings">
-					<p class="pull-right"><button type="submit" class="btn btn-default cart" value="в корзину" data-result-text="добавлено"/>В корзину</button>
+					<p class="pull-right"><input form="test" type="submit" class="btn btn-default cart" value="в корзину" data-result-text="добавлено"/>
 				</div>
 				{else}
 					Нет в наличии
