@@ -265,12 +265,13 @@
 					</div>
 				</div>
 			</div>
+			{$content}
 		</div>
 
 	</div>
 </div>
 <!-- /.container -->
-{$content}
+
 <div class="row">
 
 	<div class="col-sm-4 col-lg-4 col-md-4">
