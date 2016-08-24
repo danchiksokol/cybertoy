@@ -2,18 +2,22 @@
 $('form.variants').live('submit', function(e) {
 	e.preventDefault();
 	button = $(this).find('input[type="submit"]');
-	if($(this).find('input[name=variant]:checked').size()>0)
+	if($(this).find('input[name=variant]:checked').size()>0) {
 		variant = $(this).find('input[name=variant]:checked').val();
-	if($(this).find('select[name=variant]').size()>0)
+	}
+	if($(this).find('select[name=variant]').size()>0) {
 		variant = $(this).find('select').val();
+	}
 	$.ajax({
 		url: "ajax/cart.php",
 		data: {variant: variant},
 		dataType: 'json',
 		success: function(data){
 			$('#cart_informer').html(data);
-			if(button.attr('data-result-text'))
+			if(button.attr('data-result-text')) {
+				alert('Test');
 				button.val(button.attr('data-result-text'));
+			}
 		}
 	});
 	var o1 = $(this).offset();

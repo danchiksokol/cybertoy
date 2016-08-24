@@ -33,7 +33,7 @@
 					<h4><a data-product="{$product->id}" href="products/{$product->url}">{$product->name|escape}</a></h4>
 					<!--p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p-->
 					<!-- Выбор варианта товара -->
-					<form id="cart" class="variants" action="/cart">
+					<form id="cart{$product->id}" class="variants" action="/cart">
 						<table>
 							{foreach $product->variants as $v}
 								<tr class="variant">
@@ -54,7 +54,7 @@
 				</div>
 				{if $product->variants|count > 0}
 				<div class="ratings">
-					<p class="pull-right"><input form="cart" type="submit" class="btn btn-default cart" value="в корзину" data-result-text="добавлено"/>
+					<p class="pull-right"><input form="cart{$product->id}" type="submit" class="btn btn-default cart" value="в корзину" data-result-text="добавлено"/>
 				</div>
 				{else}
 					Нет в наличии

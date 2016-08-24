@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-07-17 19:58:32
+<?php /* Smarty version Smarty-3.1.18, created on 2016-08-24 13:19:06
          compiled from "simpla/design/html/theme.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:194362992578bb938cfa7c7-62404605%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c67705d883d288c64137fd663cc6f4ddb8a2aa3b' => 
     array (
       0 => 'simpla/design/html/theme.tpl',
-      1 => 1400607878,
+      1 => 1471083212,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_578bb938d6b200_17921092',
   'variables' => 
   array (
     'theme' => 0,
@@ -26,10 +28,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'root_dir' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_578bb938d6b200_17921092',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_578bb938d6b200_17921092')) {function content_578bb938d6b200_17921092($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include '/var/www/cybertoy.local/Smarty/libs/plugins/modifier.truncate.php';
+<?php if ($_valid && !is_callable('content_578bb938d6b200_17921092')) {function content_578bb938d6b200_17921092($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include '/home/daniel/Cybertoy/www/cybertoy.local/Smarty/libs/plugins/modifier.truncate.php';
 ?><?php $_smarty_tpl->_capture_stack[0][] = array('tabs', null, null); ob_start(); ?>
 	<li class="active"><a href="index.php?module=ThemeAdmin">Тема</a></li>
 	<li><a href="index.php?module=TemplatesAdmin">Шаблоны</a></li>		
