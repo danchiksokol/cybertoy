@@ -144,8 +144,8 @@
 			<!-- cart -->
 			<ul class="nav navbar-nav navbar-right">
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-						<span class="glyphicon glyphicon-shopping-cart"></span>{include file='cart_informer.tpl'}<span class="caret"></span>
+					<a href="/cart" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+						<span class="glyphicon glyphicon-shopping-cart"></span><span id="cart_informer">{include file='cart_informer.tpl'}</span><span class="caret"></span>
 					</a>
 					<ul class="dropdown-menu dropdown-cart" role="menu">
 						<!-- li>

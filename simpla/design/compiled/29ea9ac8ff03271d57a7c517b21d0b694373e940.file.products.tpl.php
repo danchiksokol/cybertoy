@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-07-17 19:58:24
+<?php /* Smarty version Smarty-3.1.18, created on 2016-08-13 13:55:50
          compiled from "simpla/design/html/products.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1755542001578bb9303cbf26-66295882%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '29ea9ac8ff03271d57a7c517b21d0b694373e940' => 
     array (
       0 => 'simpla/design/html/products.tpl',
-      1 => 1429296654,
+      1 => 1471083212,
       2 => 'file',
     ),
   ),
@@ -30,6 +30,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       'compiled' => '',
     ),
   ),
+  'version' => 'Smarty-3.1.18',
+  'unifunc' => 'content_578bb930551044_45596705',
   'variables' => 
   array (
     'manager' => 0,
@@ -55,10 +57,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c' => 0,
   ),
   'has_nocache_code' => 0,
-  'version' => 'Smarty-3.1.18',
-  'unifunc' => 'content_578bb930551044_45596705',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_578bb930551044_45596705')) {function content_578bb930551044_45596705($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include '/var/www/cybertoy.local/Smarty/libs/plugins/modifier.truncate.php';
+<?php if ($_valid && !is_callable('content_578bb930551044_45596705')) {function content_578bb930551044_45596705($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include '/home/daniel/Cybertoy/www/cybertoy.local/Smarty/libs/plugins/modifier.truncate.php';
 ?>
 <?php $_smarty_tpl->_capture_stack[0][] = array('tabs', null, null); ob_start(); ?>
 	<li class="active"><a href="<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['url'][0][0]->url_modifier(array('module'=>'ProductsAdmin','keyword'=>null,'category_id'=>null,'brand_id'=>null,'filter'=>null,'page'=>null),$_smarty_tpl);?>

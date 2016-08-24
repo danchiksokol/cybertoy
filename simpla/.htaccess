@@ -1,5 +1,5 @@
 AddType application/octet-stream csv
 AuthName "Simpla CMS"
 AuthType Basic
-AuthUserFile /var/www/cybertoy.local/simpla/.passwd
+AuthUserFile /home/daniel/Cybertoy/www/cybertoy.local/simpla/.passwd
 require valid-user
