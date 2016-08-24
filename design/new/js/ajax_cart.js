@@ -15,7 +15,6 @@ $('form.variants').live('submit', function(e) {
 		success: function(data){
 			$('#cart_informer').html(data);
 			if(button.attr('data-result-text')) {
-				alert('Test');
 				button.val(button.attr('data-result-text'));
 			}
 		}

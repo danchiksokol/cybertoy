@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a36005-d28c-4ab9-aee0-1a76cdddd522" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/html/main.tpl" afterPath="$PROJECT_DIR$/design/new/html/main.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/js/ajax_cart.js" afterPath="$PROJECT_DIR$/design/new/js/ajax_cart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/8efb48f44e63b7e66972cee70adbdc59f9b8027e.file.templates.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/8efb48f44e63b7e66972cee70adbdc59f9b8027e.file.templates.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/c67705d883d288c64137fd663cc6f4ddb8a2aa3b.file.theme.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/c67705d883d288c64137fd663cc6f4ddb8a2aa3b.file.theme.tpl.php" />
     </list>
     <ignored path="cybertoy.local.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
+            <state relative-caret-position="100">
+              <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -78,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax_cart.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ajax_cart.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <state relative-caret-position="320">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -126,8 +122,8 @@
         <option value="$PROJECT_DIR$/design/new/html/cart_informer.tpl" />
         <option value="$PROJECT_DIR$/design/new/html/index.tpl" />
         <option value="$PROJECT_DIR$/design/default/js/ajax_cart.js" />
-        <option value="$PROJECT_DIR$/design/new/js/ajax_cart.js" />
         <option value="$PROJECT_DIR$/design/new/html/main.tpl" />
+        <option value="$PROJECT_DIR$/design/new/js/ajax_cart.js" />
       </list>
     </option>
   </component>
@@ -323,12 +319,12 @@
       <workItem from="1470243617729" duration="1844000" />
       <workItem from="1471085192501" duration="4440000" />
       <workItem from="1472020221883" duration="4161000" />
-      <workItem from="1472028861823" duration="3722000" />
+      <workItem from="1472028861823" duration="3893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57975000" />
+    <option name="totallyTimeSpent" value="58146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1055" extended-state="0" />
@@ -714,18 +710,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
+    <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="100">
+          <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
+    <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="56" column="73" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="73" />
+        <state relative-caret-position="320">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding />
         </state>
       </provider>
