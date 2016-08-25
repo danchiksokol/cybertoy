@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15a36005-d28c-4ab9-aee0-1a76cdddd522" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/js/ajax_cart.js" afterPath="$PROJECT_DIR$/design/new/js/ajax_cart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/design/new/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/css/style.css" afterPath="$PROJECT_DIR$/design/new/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/html/cart.tpl" afterPath="$PROJECT_DIR$/design/new/html/cart.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/html/index.tpl" afterPath="$PROJECT_DIR$/design/new/html/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/html/main.tpl" afterPath="$PROJECT_DIR$/design/new/html/main.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/new/html/products.tpl" afterPath="$PROJECT_DIR$/design/new/html/products.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_template/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/new_template/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/06f5a9e8f6314631c935e6c33c6d4bf26e63a269.file.tinymce_init.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/06f5a9e8f6314631c935e6c33c6d4bf26e63a269.file.tinymce_init.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/b9ef417758ce67ff31a4ef150be047fb771c4c54.file.stats.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/b9ef417758ce67ff31a4ef150be047fb771c4c54.file.stats.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/d8ee2c04631b99172c8e9dfe8b1dee295230e569.file.orders.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/d8ee2c04631b99172c8e9dfe8b1dee295230e569.file.orders.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/e00fc3608809c3f4bd3b1fc262767cef5811374d.file.pages.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/e00fc3608809c3f4bd3b1fc262767cef5811374d.file.pages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/e708a0e4da6568d8b25dbb51e095efe2970ed110.file.blog.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/e708a0e4da6568d8b25dbb51e095efe2970ed110.file.blog.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpla/design/compiled/f0a9bb6efee2b7231a70c27c6d3d7441cd14fdee.file.comments.tpl.php" afterPath="$PROJECT_DIR$/simpla/design/compiled/f0a9bb6efee2b7231a70c27c6d3d7441cd14fdee.file.comments.tpl.php" />
     </list>
     <ignored path="cybertoy.local.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,18 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7640">
-              <caret line="382" column="30" selection-start-line="382" selection-start-column="30" selection-end-line="382" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new_template.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_template/new_template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4840">
-              <caret line="242" column="14" selection-start-line="242" selection-start-column="14" selection-end-line="242" selection-end-column="14" />
+            <state relative-caret-position="8680">
+              <caret line="443" column="23" selection-start-line="443" selection-start-column="23" selection-end-line="443" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -47,8 +50,8 @@
       <file leaf-file-name="index.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/new/html/index.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1260">
-              <caret line="147" column="127" selection-start-line="147" selection-start-column="127" selection-end-line="147" selection-end-column="127" />
+            <state relative-caret-position="-2356">
+              <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -57,24 +60,26 @@
       <file leaf-file-name="main.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
-              <folding />
+            <state relative-caret-position="1120">
+              <caret line="56" column="116" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="116" />
+              <folding>
+                <marker date="1472040602275" expanded="false" signature="3543:3556" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/default/html/main.tpl">
+      <file leaf-file-name="products.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design/new/html/products.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+            <state relative-caret-position="320">
+              <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax_cart.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ajax_cart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -84,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shop-homepage.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_template/css/shop-homepage.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/new/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="362">
+              <caret line="606" column="25" selection-start-line="606" selection-start-column="25" selection-end-line="606" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/new/html/cart.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -120,10 +135,15 @@
         <option value="$PROJECT_DIR$/new_template/css/shop-homepage.css" />
         <option value="$PROJECT_DIR$/simpla/.htaccess" />
         <option value="$PROJECT_DIR$/design/new/html/cart_informer.tpl" />
-        <option value="$PROJECT_DIR$/design/new/html/index.tpl" />
         <option value="$PROJECT_DIR$/design/default/js/ajax_cart.js" />
-        <option value="$PROJECT_DIR$/design/new/html/main.tpl" />
         <option value="$PROJECT_DIR$/design/new/js/ajax_cart.js" />
+        <option value="$PROJECT_DIR$/design/new/html/main.tpl" />
+        <option value="$PROJECT_DIR$/design/new/html/products.tpl" />
+        <option value="$PROJECT_DIR$/design/new/css/style.css" />
+        <option value="$PROJECT_DIR$/design/new/html/cart.tpl" />
+        <option value="$PROJECT_DIR$/new_template/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/design/new/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/design/new/html/index.tpl" />
       </list>
     </option>
   </component>
@@ -198,6 +218,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cybertoy.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cybertoy.local" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="design" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -256,9 +290,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design/new/js" />
       <recent name="$PROJECT_DIR$/design/new/css" />
       <recent name="$PROJECT_DIR$/new_template/js" />
-      <recent name="$PROJECT_DIR$/design/new/js" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/new_template" />
     </key>
@@ -319,19 +353,19 @@
       <workItem from="1470243617729" duration="1844000" />
       <workItem from="1471085192501" duration="4440000" />
       <workItem from="1472020221883" duration="4161000" />
-      <workItem from="1472028861823" duration="3893000" />
+      <workItem from="1472028861823" duration="13631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58146000" />
+    <option name="totallyTimeSpent" value="67884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1055" extended-state="0" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1920" height="1055" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13461539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13461539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -387,44 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new_template/new_template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4740">
-          <caret line="237" column="21" selection-start-line="237" selection-start-column="21" selection-end-line="237" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/new/html/index.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5880">
-          <caret line="294" column="14" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template/carusel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_template/css/shop-homepage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1180">
@@ -547,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="4" column="54367" selection-start-line="4" selection-start-column="54367" selection-end-line="4" selection-end-column="54367" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_template/css/carusel.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1420">
@@ -594,13 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="147" column="22" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -655,14 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7640">
-          <caret line="382" column="30" selection-start-line="382" selection-start-column="30" selection-end-line="382" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_template/css/shop-homepage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
@@ -702,26 +676,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/new/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="606" column="25" selection-start-line="606" selection-start-column="25" selection-end-line="606" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/new/html/cart.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8680">
+          <caret line="443" column="23" selection-start-line="443" selection-start-column="23" selection-end-line="443" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/new/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="4" column="46401" selection-start-line="4" selection-start-column="46395" selection-end-line="4" selection-end-column="46401" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/new/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="46401" selection-start-line="4" selection-start-column="46401" selection-end-line="4" selection-end-column="46401" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1740">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/design/new/html/index.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1260">
-          <caret line="147" column="127" selection-start-line="147" selection-start-column="127" selection-end-line="147" selection-end-column="127" />
+        <state relative-caret-position="-2356">
+          <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design/new/html/main.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
-          <folding />
+        <state relative-caret-position="1120">
+          <caret line="56" column="116" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="116" />
+          <folding>
+            <marker date="1472040602275" expanded="false" signature="3543:3556" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/new/js/ajax_cart.js">
+    <entry file="file://$PROJECT_DIR$/design/new/html/products.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
           <folding />
         </state>
       </provider>

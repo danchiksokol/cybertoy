@@ -148,7 +148,8 @@
 			</tr>
 			{/foreach}
 			</table>
-			<input type="submit" class="button" value="в корзину" data-result-text="добавлено"/>
+			<!-- input type="submit" class="button" value="в корзину" data-result-text="добавлено"/ -->
+			<input type="submit" class="btn btn-default cart" value="в корзину" data-result-text="добавлено"/>
 		</form>
 		<!-- Выбор варианта товара (The End) -->
 		{else}

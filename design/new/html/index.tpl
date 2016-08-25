@@ -105,7 +105,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">Название сайта</a>
+			<a class="navbar-brand" href="#">Cybertoy.ru</a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="navbar-collapse">
@@ -205,7 +205,7 @@
                     </span>
 						</li -->
 						<li class="divider"></li>
-						<li><a class="text-center" href="cart.html">View Cart</a></li>
+						<li><a class="text-center" href="/cart">Перейти в корзину</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -272,7 +272,7 @@
 </div>
 <!-- /.container -->
 
-<div class="row">
+<!-- div class="row">
 
 	<div class="col-sm-4 col-lg-4 col-md-4">
 		<div class="thumbnail">
@@ -295,7 +295,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div -->
 <div class="container">
 	<hr>
 	<!-- Footer -->
@@ -311,10 +311,10 @@
 <!-- /.container -->
 
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<script src="design/{$settings->theme}/js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="design/{$settings->theme}/js/bootstrap.min.js"></script>
 
 </body>
 </html>

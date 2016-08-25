@@ -69,7 +69,7 @@
 	<th class="remove"></th>
 </tr>
 {/if}
-{if $coupon_request}
+{*if $coupon_request}
 <tr class="coupon">
 	<th class="image"></th>
 	<th class="name" colspan="3">Код купона или подарочного ваучера
@@ -107,7 +107,7 @@ $("input[name='coupon_code']").keypress(function(event){
 </script>
 {/literal}
 
-{/if}
+{/if*}
 
 <tr>
 	<th class="image"></th>

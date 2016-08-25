@@ -29,7 +29,7 @@
 					{foreach $product->variants as $v}
 						{if $v->compare_price > 0}<h4 class="pull-right">{$v->compare_price|convert}</h4>{/if}
 					{/foreach}
-					<h4 class="pull-right">{$v->price|convert} <span class="currency">{$currency->sign|escape}</span></h4>
+					<!-- h4 class="pull-right">{$v->price|convert} <span class="currency">{$currency->sign|escape}</span></h4 -->
 					<h4><a data-product="{$product->id}" href="products/{$product->url}">{$product->name|escape}</a></h4>
 					<!--p>See more snippets like this online store item at <a target="_blank" href="http://www.bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p-->
 					<!-- Выбор варианта товара -->
@@ -66,7 +66,7 @@
 {/if}
 
 {* Новинки *}
-{get_new_products var=new_products limit=3}
+{*get_new_products var=new_products limit=3}
 {if $new_products}
 <h1>Новинки</h1>
 <!-- Список товаров-->
@@ -115,4 +115,4 @@
 	{/foreach}
 			
 </ul>
-{/if}	
+{/if*}
